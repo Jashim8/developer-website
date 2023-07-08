@@ -1,0 +1,61 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Zilla Slab', serif;
+}
+
+.header {
+    background-color: ;
+    background-image: ;
+    background-repeat: no-repeat;
+    background-position: ;
+
+
+}
+
+.banner {
+    padding: 30px 30px 30px 150px;
+
+    display: flex;
+    align-items: center;
+}
+
+.banner . profile-pic {
+    width: 5000pxx;
+}
+
+.btn-primary {
+    border-radius: 5px;
+    background-color: tomato;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+}
+
+.text-primary {
+    color: tomato;
+}
+
+nav {
+    display: flex;
+    justify-content: ;
+}
+
+.nav-title {
+    color: #181818;
+    font-size: 45px;
+    font-weight: 800;
+}
+
+nav>ul {
+    display: flex;
+    text-align: ;
+}
+
+nav a {
+    list-style: none;
+    text-decoration: none;
+    margin: 50px;
+    color: #474747;
+}
